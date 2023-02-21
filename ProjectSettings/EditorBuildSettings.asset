@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DrawingAndColoring Extra/Scenes/Landscape/Album.unity
+    guid: bb91497f4b93eee4eb1477ed8d98e57c
+  - enabled: 1
+    path: Assets/DrawingAndColoring Extra/Scenes/Landscape/Game.unity
+    guid: edee28a6fe3ccd749a4c0942036877d3
   m_configObjects: {}

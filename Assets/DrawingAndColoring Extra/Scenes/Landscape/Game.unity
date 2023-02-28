@@ -1015,7 +1015,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.96500003, y: 0.1871732}
   m_AnchorMax: {x: 0.96500003, y: 0.1871732}
-  m_AnchoredPosition: {x: 0, y: 48}
+  m_AnchoredPosition: {x: -17.18, y: 48}
   m_SizeDelta: {x: 69.031, y: 62}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &133037867
@@ -1178,9 +1178,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Yes
-
-'
+  m_Text: "\rTak\n"
 --- !u!222 &154442085
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1246,7 +1244,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.929, y: 0.1871732}
   m_AnchorMax: {x: 0.929, y: 0.1871732}
-  m_AnchoredPosition: {x: 0, y: 48}
+  m_AnchoredPosition: {x: -17.18, y: 48}
   m_SizeDelta: {x: 70, y: 62}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &178114810
@@ -3047,7 +3045,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: No
+  m_Text: Nie
 --- !u!222 &665011724
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3697,7 +3695,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Clean Screen?
+  m_Text: "\rCzysty Ekran?"
 --- !u!222 &952461162
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7113,8 +7111,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.9316225, y: 0.18227018}
   m_AnchorMax: {x: 0.9316225, y: 0.18227018}
-  m_AnchoredPosition: {x: 0, y: 15}
-  m_SizeDelta: {x: 85, y: 30}
+  m_AnchoredPosition: {x: -14.18, y: 15}
+  m_SizeDelta: {x: 130, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525607123
 MonoBehaviour:
@@ -7149,7 +7147,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Undo/Redo
+  m_Text: "\rCofnij/Przerobi\u0107"
 --- !u!222 &1525607124
 CanvasRenderer:
   m_ObjectHideFlags: 0

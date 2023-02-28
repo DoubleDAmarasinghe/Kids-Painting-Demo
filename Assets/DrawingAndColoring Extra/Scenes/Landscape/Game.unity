@@ -7147,7 +7147,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\rCofnij/Przerobi\u0107"
+  m_Text: Cofnij / Dalej
 --- !u!222 &1525607124
 CanvasRenderer:
   m_ObjectHideFlags: 0
